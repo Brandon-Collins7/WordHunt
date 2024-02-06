@@ -1,0 +1,10 @@
+can try load lexicon with a *trie* (around line 49)
+
+can make set board a 2d array (around line 79)
+
+
+
+input board
+randomize board
+play game with different difficulties and time limit
+website or app?
