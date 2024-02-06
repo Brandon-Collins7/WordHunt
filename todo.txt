@@ -6,3 +6,4 @@ can make set board a 2d array (around line 79)
 randomize board
 play game with different difficulties and time limit
 website or app?
+add junit tests
