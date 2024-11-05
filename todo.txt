@@ -1,9 +1,19 @@
-can try load lexicon with a *trie* (around line 49)
+Add checks for if board hasn't loaded
+- illegal state
 
-can make set board a 2d array (around line 79)
+load lexicon method?
+- read lexicon from a file
+lexicon validPrefix
+lexicon validWord
 
+4 directions vs 9 directions
 
-randomize board
+don't make findWords() both modify and return found words
+
+randomize board 
+- make sure there are plenty of makeable words
+- maybe prioritize letters that are more common
+
 play game with different difficulties and time limit
 website or app?
-add junit tests
+add tests
