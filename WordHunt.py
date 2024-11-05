@@ -31,7 +31,7 @@ class WordHunt:
         
     def createRandomBoard(self, rows: int, columns: int):
         self.board = [[random.choice(string.ascii_uppercase) for _ in range(columns)] for _ in range(rows)]
-        self.wordqOnBoard = [] #reset wordsOnBoard
+        self.wordsOnBoard = [] #reset wordsOnBoard
 
     def getBoard(self):
         return self.board
